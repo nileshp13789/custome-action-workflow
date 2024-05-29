@@ -5,4 +5,4 @@ jobs:
   runs-on: ubuntu-latest
   steps:
     - uses: actions/checkout@v4
-    - uses: nileshp13789/custom-action@main
+    - uses: nileshp13789/custome-action@main
